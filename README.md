@@ -53,12 +53,6 @@ The Property Management Dashboard is an Excel-based data analytics project desig
 3. Use the slicers and filters to explore the data.
 4. Review KPIs and charts for insights.
 
-## 📸 Dashboard Preview
-Add a screenshot of your dashboard here.
-
-```text
-[Insert Dashboard Screenshot]
-```
 
 ## 💡 Skills Demonstrated
 - Data Analysis
